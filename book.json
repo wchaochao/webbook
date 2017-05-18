@@ -1,0 +1,51 @@
+{
+  "title": "Web技术笔记",
+  "author": "wchaochao",
+  "description": "a book about web technology I learned",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "GitHub": "https://github.com/wchaochao/webbook"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": [
+    "disqus",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "github",
+    "splitter",
+    "tbfed-pagefooter",
+    "toggle-chapters"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "https-wchaochao-gitbooks-io-webbook-content"
+    },
+    "github": {
+      "url": "https://github.com/wchaochao/webbook"
+    },
+    "sharing": {
+      "weibo": false,
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "instapaper"
+      ]
+    },
+    "tbfed-pagefooter": {
+        "modify_label": "最近更新：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}
