@@ -1,13 +1,8 @@
 {
-  "title": "Web技术笔记",
+  "title": "Web学习笔记",
   "author": "wchaochao",
-  "description": "a book about web technology I learned",
+  "description": "前端学习过程中要整理的笔记",
   "language": "zh-hans",
-  "links": {
-    "sidebar": {
-      "GitHub": "https://github.com/wchaochao/webbook"
-    }
-  },
   "styles": {
     "website": "styles/website.css"
   },
