@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-
------
+* [Summary](SUMMARY.md)
 
 * [Part I 开发工具](dev-tool/README.md)
   * [命令行](dev-tool/cli/README.md)
@@ -24,7 +23,6 @@
     * [nodemon](frontend-tool/server/nodemon/README.md)
     * [fiddler](frontend-tool/server/fiddler/README.md)
   * [浏览器端](frontend-tool/browser/README.md)
-    * [Chrome Web Developer](frontend-tool/browser/chrome-dev/README.md)
     * [BrowserSync](frontend-tool/browser/browsersync/README.md)
   * [包管理](frontend-tool/pm/README.md)
     * [NPM](frontend-tool/pm/npm/README.md)
@@ -48,6 +46,7 @@
   * [HTML](markup/html/README.md)
   * [Pug](markup/pug/README.md)
   * [MarkDown](markup/markdown/README.md)
+    * [草稿](markup/markdown/draft.md)
 * [Part IV 样式语言](stylesheet/README.md)
   * [CSS](stylesheet/css/README.md)
   * [Less](stylesheet/less/README.md)
@@ -65,7 +64,7 @@
 * [Part VIII JS库](js-library/README.md)
   * [underscore](js-library/underscore/README.md)
   * [jquery](js-library/jquery/README.md)
-* [Part XI JS框架](js-framework/README.md)
+* [Part IX JS框架](js-framework/README.md)
   * [Backbone](js-framework/backbone/README.md)
   * [Angular 1.x](js-framework/angular1/README.md)
   * [Angular](js-framework/angular2/README.md)
@@ -87,6 +86,3 @@
   * [Nginx](lemp/nginx/README.md)
   * [MySQL](lemp/mysql/README.md)
   * [php](lemp/php/README.md)
-* [Part XIII 草稿](draft/README.md)
-  * [MarkDown](draft/markdown.md)
-

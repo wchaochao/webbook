@@ -208,6 +208,7 @@
 .markdown-section [type="checkbox"] {
   box-sizing: border-box;
   padding: 0;
+  vertical-align: -2px;
 }
 
 .markdown-section * {

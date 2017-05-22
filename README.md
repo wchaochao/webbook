@@ -2,116 +2,105 @@
 
 前端学习过程中要整理的笔记
 
+## 目录
+
+[Summary](/SUMMARY.md)
+
 ## 进度
 
-[Part I 开发工具](/dev-tool/README.md)
+### Part I 开发工具
 
-* [命令行](/dev-tool/cli/README.md)
-  * [cmder](/dev-tool/cli/cmder.md)
-* [系统包管理](/dev-tool/spm/README.md)
-  * [Chocolatey](/dev-tool/spm/chocolatey/README.md)
-* [编辑器](/dev-tool/editor/README.md)
-  * [VS Code](/dev-tool/editor/vscode/README.md)
-* [浏览器](/dev-tool/browser/README.md)
-  * [chrome](/dev-tool/browser/chrome/README.md)
-* [版本控制](/dev-tool/vcs/README.md)
-  * [git](/dev-tool/vcs/git/README.md)
-* [NodeJS](/dev-tool/nodejs/README.md)
-* [虚拟机](/dev-tool/vm/README.md)
-  * [Vagrant](/dev-tool/vm/vagrant/README.md)
-* [正则](/dev-tool/regexp/README.md)
+> - [ ] cmder - `不了解`
+> - [ ] Chocolatey - `不了解`
+> - [ ] VS Code - `基本使用`
+> - [ ] chrome - `基本使用`
+> - [ ] git - `基本使用`
+> - [ ] NodeJS - `基本使用`
+> - [ ] Vagrant - `不了解`
+> - [ ] 正则 - `基本使用`
 
-[Part II 前端工具](/frontend-tool/README.md)
+### Part II 前端工具
 
-* [服务器端](/frontend-tool/server/README.md)
-  * [nodemon](/frontend-tool/server/nodemon/README.md)
-  * [fiddler](/frontend-tool/server/fiddler/README.md)
-* [浏览器端](/frontend-tool/browser/README.md)
-  * [Chrome Web Developer](/frontend-tool/browser/chrome-dev/README.md)
-  * [BrowserSync](/frontend-tool/browser/browsersync/README.md)
-* [包管理](/frontend-tool/pm/README.md)
-  * [NPM](/frontend-tool/pm/npm/README.md)
-  * [Yarn](/frontend-tool/pm/yarn/README.md)
-  * [Bower](/frontend-tool/pm/bower/README.md)
-* [lint](/frontend-tool/lint/README.md)
-  * [Eslint](/frontend-tool/lint/eslint/README.md)
-  * [Tslint](/frontend-tool/lint/tslint/README.md)
-* [编译](/frontend-tool/build/README.md)
-  * [Babel](/frontend-tool/build/Babel/README.md)
-  * [Typescript](/frontend-tool/build/typescript/README.md)
-* [测试](/frontend-tool/test/README.md)
-  * [Karma](/frontend-tool/test/karma/README.md)
-  * [protractor](/frontend-tool/test/protractor/README.md)
-* [自动化](/frontend-tool/auto/README.md)
-  * [Gulp](/frontend-tool/auto/gulp/README.md)
-  * [Grunt](/frontend-tool/auto/grunt/README.md)
-* [打包](/frontend-tool/pack/README.md)
-  * [Webpack](/frontend-tool/pack/webpack/README.md)
+> - [ ] nodemon - `基本使用`
+> - [ ] fiddler - `基本使用`
+> - [ ] VS Code - `基本使用`
+> - [ ] BrowserSync - `不了解`
+> - [ ] NPM - `基本使用`
+> - [ ] Yarn - `了解`
+> - [ ] Bower - `基本使用`
+> - [ ] Eslint - `基本使用`
+> - [ ] Tslint - `基本使用`
+> - [ ] Babel - `了解`
+> - [ ] Typescript - `基本使用`
+> - [ ] Karma - `了解`
+> - [ ] protractor - `了解`
+> - [ ] Gulp - `了解`
+> - [ ] Grunt - `不了解`
+> - [ ] Webpack - `不了解`
 
-[Part III 标记语言](/markup/README.md)
+### Part III 标记语言
 
-* [HTML](/markup/html/README.md)
-* [Pug](/markup/pug/README.md)
-* [MarkDown](/markup/markdown/README.md)
+> - [ ] HTML - `熟练使用`
+> - [ ] Pug - `基本使用`
+> - [ ] MarkDown - `基本使用`
 
-[Part IV 样式语言](/stylesheet/README.md)
+### Part IV 样式语言
 
-* [CSS](/stylesheet/css/README.md)
-* [Less](/stylesheet/less/README.md)
-* [Sass](/stylesheet/sass/README.md)
+> - [ ] CSS - `熟练使用`
+> - [ ] Less - `了解`
+> - [ ] Sass - `了解`
 
-[Part V CSS框架](/css-framework/README.md)
+### Part V CSS框架
 
-* [Bootstrap](/css-framework/bootstrap/README.md)
-* [Semantic UI](/css-framework/semantic/README.md)
+> - [ ] Bootstrap - `熟练使用`
+> - [ ] Semantic UI - `不了解`
 
-[Part VI Javascript语言](/javascript/README.md)
+### Part VI Javascript语言
 
-* [ES5](/javascript/es5/README.md)
-* [ES6](/javascript/es6/README.md)
-* [TypeScript](/javascript/typescript/README.md)
+> - [ ] ES5 - `熟练使用`
+> - [ ] ES6 - `了解`
+> - [ ] TypeScript - `了解`
 
-[Part VII 浏览器平台](/browser/README.md)
+### Part VII 浏览器平台
 
-* [BOM](/browser/bom/README.md)
-* [DOM](/browser/dom/README.md)
+> - [ ] BOM - `熟练使用`
+> - [ ] DOM - `熟练使用`
 
-[Part VIII JS库](/js-library/README.md)
+### Part VIII JS库
 
-* [underscore](/js-library/underscore/README.md)
-* [jquery](/js-library/jquery/README.md)
+> - [ ] underscore - `了解`
+> - [ ] jquery - `熟练使用`
 
-[Part XI JS框架](/js-framework/README.md)
+### Part IX JS框架
 
-* [Backbone](/js-framework/backbone/README.md)
-* [Angular 1.x](/js-framework/angular1/README.md)
-* [Angular](/js-framework/angular2/README.md)
-* [React](/js-framework/react/README.md)
-* [React Native](/js-framework/react-native/README.md)
-* [Vue.js](/js-framework/vue/README.md)
+> - [ ] Backbone - `不了解`
+> - [ ] Angular 1.x - `熟练使用`
+> - [ ] Angular - `基本使用`
+> - [ ] React - `不了解`
+> - [ ] React Native - `不了解`
+> - [ ] Vue.js - `不了解`
 
-[Part X JS测试](/js-testing/README.md)
+### Part X JS测试
 
-* [Jasmine](/js-testing/jasmine/README.md)
-* [Mocha](/js-testing/mocha/README.md)
+> - [ ] Jasmine - `了解`
+> - [ ] Mocha - `不了解`
 
-[Part XI MEAN技术栈](/mean/README.md)
+### Part XI MEAN技术栈
 
-* [NodeJS](/mean/nodejs/README.md)
-* [NodeJS API](/mean/nodejs-api/README.md)
-* [Express](/mean/express/README.md)
-* [Express middleware](/mean/express-middleware/README.md)
-* [MongoDB](/mean/mongodb/README.md)
-* [Mongoose](/mean/mongoose/README.md)
+> - [ ] NodeJS - `基本使用`
+> - [ ] NodeJS API - `基本使用`
+> - [ ] Express - `基本使用`
+> - [ ] Express middleware - `基本使用`
+> - [ ] MongoDB - `基本使用`
+> - [ ] Mongoose - `基本使用`
 
-[Part XII LEMP技术栈](/lemp/README.md)
+### Part XII LEMP技术栈
 
-* [Linux](/lemp/linux/README.md)
-* [Nginx](/lemp/nginx/README.md)
-* [MySQL](/lemp/mysql/README.md)
-* [php](/lemp/php/README.md)
+> - [ ] Linux - `不了解`
+> - [ ] Nginx - `不了解`
+> - [ ] MySQL - `不了解`
+> - [ ] phpe - `不了解`
 
-[Part XIII 草稿](/draft/README.md)
+## 安排
 
-* [MarkDown](/draft/markdown.md)
-
+[markdown笔记](markup/markdown/draft.md)
