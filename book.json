@@ -13,7 +13,7 @@
     "search-pro",
     "github",
     "splitter",
-    "tbfed-pagefooter",
+    "local-pagefooter",
     "toggle-chapters",
     "todo"
   ],
@@ -39,7 +39,8 @@
         "instapaper"
       ]
     },
-    "tbfed-pagefooter": {
+    "local-pagefooter": {
+        "islocal":true,
         "modify_label": "最近更新：",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
