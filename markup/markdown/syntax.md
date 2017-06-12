@@ -1,30 +1,3 @@
-# Markdown
-
-编写Web文档
-
-## 目录
-
-* [概述](/markup/markdown/overview.md)
-* [语法](/markup/markdown/syntax.md)
-* [草稿](/markup/markdown/draft.md)
-
-## 推荐资料
-
-* [Markdown简易教程](http://www.markdowntutorial.com/)
-* [Markdown中文文档](http://wowubuntu.com/markdown/)
-
-
-# 概述
-
-使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档的轻量级标记语言
-
-> * 语法全由一些符号组成
-> * 兼容HTML
->   * HTML块级元素另起一行并空行隔开，且不解析块级元素内的Markdown语法
->   * HTML内联元素任意使用，且解析内联元素内的Markdown语法
-> * 智能转义特殊字符(<,&等)
-
-
 # 语法
 
 ## 字体
