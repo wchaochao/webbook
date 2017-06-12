@@ -1,0 +1,30 @@
+{
+  "name": "webbook",
+  "version": "0.0.0",
+  "description": "前端学习过程中需要整理的笔记",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchaochao/webbook.git"
+  },
+  "keywords": [
+    "web",
+    "frontend"
+  ],
+  "author": "wchaochao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wchaochao/webbook/issues"
+  },
+  "homepage": "https://github.com/wchaochao/webbook#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gitbook": "^3.2.2",
+    "gulp": "^3.9.1",
+    "q": "^1.5.0"
+  },
+  "dependencies": {}
+}
