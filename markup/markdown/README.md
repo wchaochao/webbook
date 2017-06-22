@@ -4,9 +4,9 @@
 
 ## 目录
 
-* [概述](/markup/markdown/overview.md)
-* [语法](/markup/markdown/syntax.md)
-* [草稿](/markup/markdown/draft.md)
+* [概述](overview.md)
+* [语法](syntax.md)
+* [草稿](draft.md)
 
 ## 推荐资料
 
