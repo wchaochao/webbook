@@ -102,5 +102,3 @@
 > - [ ] php - `不了解`
 
 ## 安排
-
-[markdown笔记](markup/markdown/draft.md)

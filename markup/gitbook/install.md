@@ -2,9 +2,9 @@
 
 依赖：nodejs, npm
 
-## 安装gitbook-cli
+## 安装gitbook-cli{#install}
 
-```cmd
+```
 安装
 npm i -g gitbook-cli
 
@@ -16,7 +16,7 @@ gitbook -V
 
 gitbook help查看gitbook命令
 
-```cmd
+```
     build [book] [output]       build a book
         --log                   Minimum log level to display (Default is info; Values are debug, info, warn, error, disabled)
         --format                Format to build to (Default is website; Values are website, json, ebook)
@@ -54,7 +54,7 @@ gitbook help查看gitbook命令
 
 gitbook -h查看gitbook-cli命令
 
-```cmd
+```
 
   Usage: gitbook [options] [command]
 
@@ -82,7 +82,7 @@ gitbook -h查看gitbook-cli命令
 
 ## 常用命令
 
-```cmd
+```
 gitbook init: 初始化目录
 gitbook build: 编译
 gitbook serve: 在线预览

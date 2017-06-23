@@ -1,10 +1,10 @@
 # 模板
 
-Gitbook使用Numjunks和Jinia2的模板语法
+Gitbook使用Numjunks和的模板语法
 
 ## 原样输出
 
-```jinia2
+```
 {% raw %}
   这{{不会被处理}}
 {% endraw %}
@@ -75,13 +75,13 @@ Gitbook使用Numjunks和Jinia2的模板语法
 
 ## 输出变量
 
-```jinia2
+```
 The author is {{book.author}}
 ```
 
 ## 过滤器
 
-```jinia2
+```
 {{foo|capitalize}}
 ```
 
@@ -89,7 +89,7 @@ The author is {{book.author}}
 
 设置变量
 
-```jinia2
+```
 {% set version="1.0.0" %}
 
 Current Version is {{version}}
@@ -99,7 +99,7 @@ Current Version is {{version}}
 
 条件判断
 
-```jinia2
+```
 {% if hungry %}
   I am hungry
 {% elif tried %}
@@ -113,7 +113,7 @@ Current Version is {{version}}
 
 循环
 
-```jinia2
+```
 {% for article in book.articles %}
 * [{{article.title}}]({{article.path}})
 {% endfor %}
@@ -123,25 +123,19 @@ Current Version is {{version}}
 
 引用本地文件
 
-```jinia2
+```
 {% include "./test.md" %}
 ```
 
 引用其他文件
 
-```jinia2
+```
 {% include "git+https://user@hostname/project/blah.git/file#commit-ish"%}
 ```
 
 ## 继承
 
-```jinia2
-// mypage.md
-{% block pageContent %}
-This is the default content
-{% endblock %}
-
-// newpage.md
+```
 {% extends "./mypage.md" %}
 
 {% block pageContent %}

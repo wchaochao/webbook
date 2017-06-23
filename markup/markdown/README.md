@@ -6,7 +6,6 @@
 
 * [概述](overview.md)
 * [语法](syntax.md)
-* [草稿](draft.md)
 
 ## 推荐资料
 

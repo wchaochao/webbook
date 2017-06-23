@@ -50,7 +50,6 @@
   * [MarkDown](markup/markdown/README.md)
     * [概述](markup/markdown/overview.md)
     * [语法](markup/markdown/syntax.md)
-    * [草稿](markup/markdown/draft.md)
   * [Gitbook](markup/gitbook/README.md)
     * [概述](markup/gitbook/overview.md)
     * [安装](markup/gitbook/install.md)
@@ -60,7 +59,6 @@
     * [插件](markup/gitbook/plugin.md)
     * [生成](markup/gitbook/generate.md)
     * [发布](markup/gitbook/publish.md)
-    * [草稿](markup/gitbook/draft.md)
 
 * [Part IV 样式语言](stylesheet/README.md)
   * [CSS](stylesheet/css/README.md)

@@ -13,7 +13,7 @@
 
 ## README.md
 
-* 书本的介绍
+* 书本介绍
 * 若不在SUMMARY中，会自动添加为SUMMARY的第一个章节
 * 可在book.json中设置README.md的替换文件
 
@@ -112,6 +112,11 @@ bin/*
   },
   "variables":{ // 设置变量
     "hello": "hello world"
+  },
+  "links" : { // 左侧导航栏添加链接
+    "sidebar" : {
+      "github" : "https://github.com"
+    }
   },
   "styles": { // 各种输出格式的样式
     "website": "styles/website.css",

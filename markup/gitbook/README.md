@@ -12,10 +12,10 @@
 * [插件](plugin.md)
 * [生成](generate.md)
 * [发布](publish.md)
-* [草稿](draft.md)
 
 ## 推荐资料
 
 * [gitbook中文文档](https://chrisniael.gitbooks.io/gitbook-documentation/)
 * [gitbook入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html)
+* [gitbook使用教程](https://gitbook.zhangjikai.com/)
 * [gitbook文档](https://gitbook.hushuang.me/setup.html)

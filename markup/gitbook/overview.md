@@ -4,8 +4,8 @@
 
 ## 格式
 
-> * 输入格式：Markdown或AsciiDoc，默认使用Markdown
-> * 输出格式：静态网站, pdf, epub, mobi，默认使用静态网站
+* 输入格式：Markdown或AsciiDoc，默认使用Markdown
+* 输出格式：静态网站, pdf, epub, mobi，默认使用静态网站
 
 ## 相关网站
 

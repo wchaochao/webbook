@@ -4,7 +4,7 @@ gitbook可生成为静态网站，pdf, epub, mobi等多种格式
 
 ## 生成静态网站
 
-```cmd
+```
 gitbook build ./ ./output
 ```
 
@@ -12,7 +12,7 @@ gitbook build ./ ./output
 
 依赖：ebook-convert
 
-```cmd
+```
 gitbook pdf ./ ./mybook.pdf
 
 gitbook epub ./ ./mybook.epub
