@@ -10,12 +10,6 @@ Gitbook默认使用[Markdown](../markdown/README.md)语法并有所扩展
 ~~删除线~~
 ```
 
-### 设置id
-
-```markdown
-# hello {#id}
-```
-
 ### 脚注
 
 ```markdown

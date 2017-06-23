@@ -10,6 +10,8 @@ Gitbook使用Numjunks和的模板语法
 {% endraw %}
 ```
 
+**注：**代码块中有模板时，本地编译会报错，需要用`{% raw %}{% endraw %}`包裹
+
 ## 全局变量
 
 > * gitbook: gitbook信息
@@ -50,20 +52,20 @@ Gitbook使用Numjunks和的模板语法
 
 ### summary变量
 
-> summary.parts: 章节目录
+> * summary.parts: 章节目录
 
 ### languages变量
 
-> languages.list: 语言列表
+> * languages.list: 语言列表
 
 ### glossary变量
 
-> golssary.path: GLOSSARY的文件路径
+> * golssary.path: GLOSSARY的文件路径
 
 ### book变量
 
-> book.language: book.json中的语言设置
-> book.[value]: book.json中的变量设置
+> * book.language: book.json中的语言设置
+> * book.[value]: book.json中的变量设置
 
 ```json
 {
@@ -76,13 +78,17 @@ Gitbook使用Numjunks和的模板语法
 ## 输出变量
 
 ```
-The author is {{book.author}}
+{% raw %}
+  The author is {{book.author}}
+{% endraw %}
 ```
 
 ## 过滤器
 
 ```
-{{foo|capitalize}}
+{% raw %}
+  {{foo|capitalize}}
+{% endraw %}
 ```
 
 ## set语句
@@ -90,9 +96,11 @@ The author is {{book.author}}
 设置变量
 
 ```
-{% set version="1.0.0" %}
+{% raw %}
+  {% set version="1.0.0" %}
 
-Current Version is {{version}}
+  Current Version is {{version}}
+{% endraw %}
 ```
 
 ## if语句
@@ -100,13 +108,15 @@ Current Version is {{version}}
 条件判断
 
 ```
-{% if hungry %}
-  I am hungry
-{% elif tried %}
-  I am tried
-{% else %}
-  I am good
-{% endif %}
+{% raw %}
+  {% if hungry %}
+    I am hungry
+  {% elif tried %}
+    I am tried
+  {% else %}
+    I am good
+  {% endif %}
+{% endraw %}
 ```
 
 ## for语句
@@ -114,9 +124,11 @@ Current Version is {{version}}
 循环
 
 ```
-{% for article in book.articles %}
-* [{{article.title}}]({{article.path}})
-{% endfor %}
+{% raw %}
+  {% for article in book.articles %}
+  * [{{article.title}}]({{article.path}})
+  {% endfor %}
+{% endraw %}
 ```
 
 ## 引用
@@ -124,21 +136,27 @@ Current Version is {{version}}
 引用本地文件
 
 ```
-{% include "./test.md" %}
+{% raw %}
+  {% include "./test.md" %}
+{% endraw %}
 ```
 
 引用其他文件
 
 ```
-{% include "git+https://user@hostname/project/blah.git/file#commit-ish"%}
+{% raw %}
+  {% include "git+https://user@hostname/project/blah.git/file#commit-ish"%}
+{% endraw %}
 ```
 
 ## 继承
 
 ```
-{% extends "./mypage.md" %}
+{% raw %}
+  {% extends "./mypage.md" %}
 
-{% block pageContent %}
-# This is my page content
-{% endblock %}
+  {% block pageContent %}
+  # This is my page content
+  {% endblock %}
+{% endraw %}
 ```
