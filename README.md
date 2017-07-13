@@ -11,11 +11,11 @@
 ### Part I 开发工具
 
 * 命令行
-  * - [ ] cmder - `不了解`
+  * - [x] cmder - `基本使用`
 * 系统包管理
-  * - [ ] Chocolatey - `不了解`
+  * - [x] chocolatey - `基本使用`
 * 编辑器
-  * - [ ] VS Code - `基本使用`
+  * - [ ] vscode - `基本使用`
 * 浏览器
   * - [ ] chrome - `基本使用`
 * 版本控制
