@@ -10,11 +10,18 @@
 5. 使用`chocolatey`安装常用软件: `everything`, `fscapture`, `VisualStudioCode`, `GoogleChrome`, `evernote`
 6. 学会使用vscode编辑器
 7. 学会使用google搜索
-8. 学习[git](https://wchaochao.gitbooks.io/dev-tool/content/vcs/git/draft.html), 学会使用git作版本管理
+8. 学习[git](https://wchaochao.gitbooks.io/dev-tool/content/vcs/git/README.html), 学会使用git作版本管理
+9. 下载金山打字通，练习打字，至少200/分
 
-## 前端基础
+## 前端入门
 
 阅读[前端知识体系及修炼攻略](http://blog.csdn.net/borishuai/article/details/8676573)
+
+* [w3c在线教程](http://www.w3school.com.cn/)
+* [codecademy](https://www.codecademy.com/learn/all)
+* [慕课网](http://www.imooc.com/course/list)
+
+## 前端基础
 
 HTML
 
