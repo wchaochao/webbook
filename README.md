@@ -11,62 +11,63 @@
 ### Part I 开发工具
 
 * 命令行
-  * - [x] cmder - `基本使用`
+  * [cmder](https://wchaochao.gitbooks.io/dev-tool/content/cli/cmder/)
 * 系统包管理
-  * - [x] chocolatey - `基本使用`
+  * [chocolatey](https://wchaochao.gitbooks.io/dev-tool/content/spm/chocolatey/)
 * 编辑器
-  * - [ ] vscode - `基本使用`
+  * vscode
 * 浏览器
-  * - [ ] chrome - `基本使用`
-* 版本控制
-  * - [x] git - `基本使用`
+  * chrome
 * 正则
-  * - [ ] regexp - `基本使用`
+* 版本控制
+  * [git](https://wchaochao.gitbooks.io/dev-tool/content/vcs/git/)
 * 文档编辑
-  * - [x] markdown - `熟练使用`
-  * - [x] gitbook - `熟练使用`
+  * [markdown](https://wchaochao.gitbooks.io/dev-tool/content/doc/markdown/)
+  * [gitbook](https://wchaochao.gitbooks.io/dev-tool/content/doc/gitbook/)
 
 ### Part II 前端开发
 
 * 标记语言
-  * - [ ] HTML - `熟练使用`
-  * - [ ] Pug - `基本使用`
+  * [HTML](https://wchaochao.gitbooks.io/frontend-dev/content/markup/html/)
+  * HTML5
+  * XML
+  * Pug
 * 样式语言
-  * - [ ] CSS - `熟练使用`
-  * - [ ] Less - `了解`
-  * - [ ] Sass - `了解`
+  * CSS
+  * LESS
+  * SASS
 * Javascript语言
-  * - [ ] ES5 - `熟练使用`
-  * - [ ] ES6 - `了解`
-  * - [ ] TypeScript - `了解`
+  * ES5
+  * ES6
+  * TypeScript
 * 浏览器平台
-  * - [ ] BOM - `熟练使用`
-  * - [ ] DOM - `熟练使用`
+  * BOM
+  * DOM
 * CSS框架
-  * - [ ] Bootstrap - `熟练使用`
-  * - [ ] Semantic UI - `不了解`
+  * Bootstrap
+  * Semantic UI
 * JS库
-  * - [ ] underscore - `了解`
-  * - [ ] jquery - `熟练使用`
+  * underscore
+  * jquery
 * JS框架
-  * - [ ] Backbone - `不了解`
-  * - [ ] Angular 1.x - `熟练使用`
-  * - [ ] Angular - `基本使用`
-  * - [ ] React - `不了解`
-  * - [ ] React Native - `不了解`
-  * - [ ] Vue.js - `不了解`
+  * Backbone
+  * Angular 1.x
+  * Angular
+  * React
+  * React Native
+  * Vue.js
 * JS测试
-  * - [ ] Jasmine - `了解`
-  * - [ ] Mocha - `不了解`
+  * Jasmine
+  * Mocha
 
 ### Part III Nodejs开发
 
 * 基本
-  * - [ ] NodeJS - `基本使用`
-  * - [ ] NodeJS API - `基本使用`
+  * NodeJS
+  * NodeJS API
 * 框架
-  * - [ ] Express - `基本使用`
-  * - [ ] Express middleware - `基本使用`
+  * Express
+  * Express middleware
 * 数据库
-  * - [ ] MongoDB - `基本使用`
-  * - [ ] Mongoose - `基本使用`
+  * MongoDB
+  * Mongoose
