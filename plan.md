@@ -29,10 +29,14 @@
 * [codecademy-html-css](https://www.codecademy.com/learn/learn-html-css)
 * 《Head First HTML and CSS》
 
-CSS
+[CSS](https://wchaochao.gitbooks.io/frontend-dev/content/style/css/)
 
+* [w3school-css](http://www.w3school.com.cn/css/index.asp)
+* [codecademy-html-css](https://www.codecademy.com/learn/learn-html-css)
+* 《Head First HTML and CSS》
 * 《精通css:高级web标准解决方案》
-* 《css禅意花园》
+* 《CSS权威指南》
+* 《CSS揭秘》
 
 JavaScript
 
