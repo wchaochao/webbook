@@ -2,16 +2,14 @@
 
 ## 准备
 
-1. 阅读[工作流](https://github.com/ninghao/workflow-book), 了解开发工具
-2. 学习[cmder](https://wchaochao.gitbooks.io/dev-tool/content/cli/cmder/), 学会使用命令行
-3. 学习[chocolatey](https://wchaochao.gitbooks.io/dev-tool/content/spm/chocolatey/), 学会使用chocolatey安装软件
-4. 学习[shadowsocks](https://wchaochao.gitbooks.io/dev-tool/content/spm/chocolatey/software.html), 使用`chocolatey`安装`shadowsocks`, 学会使用
-  `shadowsocks`翻墙
-5. 使用`chocolatey`安装常用软件: `everything`, `fscapture`, `VisualStudioCode`, `GoogleChrome`, `evernote`
-6. 学会使用vscode编辑器
-7. 学会使用google搜索
-8. 学习[git](https://wchaochao.gitbooks.io/dev-tool/content/vcs/git/), 学会使用git作版本管理
-9. 下载金山打字通，练习打字，至少150/分
+1. 阅读[工作流](https://github.com/ninghao/workflow-book)，了解开发工具
+2. 学习[cmder](https://wchaochao.gitbooks.io/dev-tool/content/cli/cmder/)，学会使用命令行
+3. 学习[chocolatey](https://wchaochao.gitbooks.io/dev-tool/content/spm/chocolatey/)，学会使用chocolatey安装常用软件: `everything`, `fscapture`, `VisualStudioCode`, `GoogleChrome`, `evernote`
+4. 学习[shadowsocks](https://wchaochao.gitbooks.io/dev-tool/content/spm/chocolatey/software.html)，学会使用shadowsocks翻墙
+5. 学会使用vscode编辑器
+6. 学会使用google搜索
+7. 学习[git](https://wchaochao.gitbooks.io/dev-tool/content/vcs/git/)，学会使用git作版本管理
+8. 下载金山打字通，练习打字，至少150/分
 
 ## 前端入门
 
@@ -21,7 +19,7 @@
 * [codecademy](https://www.codecademy.com/learn/all)
 * [慕课网](http://www.imooc.com/course/list)
 
-## 前端基础
+## 前端基础一
 
 [HTML](https://wchaochao.gitbooks.io/frontend-dev/content/markup/html/)
 
@@ -38,50 +36,72 @@
 * 《CSS权威指南》
 * 《CSS揭秘》
 
-JavaScript
+ES5
 
-* 《JavaScript Dom编程艺术》
-* 《JavaScript高级程序设计》
-* 《JavaScript权威指南》
-* 《JavaScript语言精粹》
-* 《JavaScript设计模式》
-* 《高性能JavaScript》
-* 《Secrets of JavaScript Ninja》
-* 《你不知道的JS》
+BOM
 
-## 前端进阶
+DOM
 
-HTML
+Web API
 
-* 《HTML5与CSS3权威指南》
+## 前端基础二
+
+HTML5
+
+CSS3
+
+ES6
+
+## 前端基础三
+
+Normalize.css
+
+Animate.css
+
+Underscore
+
+JQuery
+
+JQuery UI
+
+## 前端进阶一
+
+Bootstrap3
+
+LESS
+
+Angular1
+
+Angular UI
+
+## 前端进阶二
+
+NodeJS
+
+Express
 
 Pug
 
-* Pug官方文档
+MongoDB
 
-CSS
+## 前端进阶三
 
-* LESS
-* SASS
+Bootstrap4
 
-CSS库/框架
+SASS
 
-* Bootstrap
+Angular2
 
-Javascript
+Grunt
 
-* ES6
-* Typescript
+Gulp
 
-Javascript库/框架
+WebPack
 
-* jQuery
-* Angular1
-* Angular2
+## 前端进阶四
 
-Nodejs
+Vue.js
 
-* Nodejs
-* Express
-* MongoDB
-* Mongoose
+React
+
+React Native

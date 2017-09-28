@@ -18,7 +18,6 @@
   * vscode
 * 浏览器
   * chrome
-* 正则
 * 版本控制
   * [git](https://wchaochao.gitbooks.io/dev-tool/content/vcs/git/)
 * 文档编辑
@@ -30,10 +29,10 @@
 * 标记语言
   * [HTML](https://wchaochao.gitbooks.io/frontend-dev/content/markup/html/)
   * HTML5
-  * XML
   * Pug
 * 样式语言
   * [CSS](https://wchaochao.gitbooks.io/frontend-dev/content/style/css/)
+  * CSS3
   * LESS
   * SASS
 * Javascript语言
@@ -43,22 +42,29 @@
 * 浏览器平台
   * BOM
   * DOM
+  * Web API
+* CSS库
+  * Normalize.css
+  * Animate.css
 * CSS框架
-  * Bootstrap
-  * Semantic UI
+  * Bootstrap3
+  * Bootstrap4
 * JS库
   * underscore
   * jquery
 * JS框架
-  * Backbone
-  * Angular 1.x
-  * Angular
+  * Angular1
+  * Angular2
+  * Vue.js
   * React
   * React Native
-  * Vue.js
 * JS测试
   * Jasmine
   * Mocha
+* JS工程化
+  * Grunt
+  * Gulp
+  * Webpack
 
 ### Part III Nodejs开发
 
