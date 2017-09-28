@@ -50,8 +50,8 @@
   * Bootstrap3
   * Bootstrap4
 * JS库
-  * underscore
-  * jquery
+  * Underscore
+  * JQuery
 * JS框架
   * Angular1
   * Angular2
